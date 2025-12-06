@@ -4,3 +4,4 @@ plotly
 seaborn
 scikit-learn
 joblib
+nbformat
